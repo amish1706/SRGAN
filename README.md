@@ -1,2 +1,1 @@
-# SRGAN
-SR-GAN Implementation
+# SRGAN Tensorflow Implementation from Scratch
